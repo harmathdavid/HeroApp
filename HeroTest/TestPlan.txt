@@ -1,6 +1,0 @@
-﻿
-
-
-
-A 3 féle hősnek 1-1 teszt osztály valamint az aréneának még 1
-
