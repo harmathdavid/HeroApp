@@ -21,7 +21,6 @@ namespace HeroUnitTest.FightTests
             Assert.IsTrue(enemy.isDead());
         }
 
-        //100 támadásból 40x meghal a lovas
         [TestMethod]
         public override void AttackHorseMan()
         {
